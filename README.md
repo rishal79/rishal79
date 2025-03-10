@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,angular,flask,bootstrap,jquery" />
+    <img src="https://skillicons.dev/icons?i=django,bootstrap,jquery" />
   </a>
 </p>
 <p align="left">
