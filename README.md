@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm RIHSAL P</h1>
+<h1 align="center">Hi 👋, I'm RISHAL P</h1>
 
 
-<h3 align="center">A passionate Backend developer from India</h3>
+
 
 <div align="center">
  <a href="">
@@ -32,12 +32,12 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git,vim," />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git" />
   </a>
 </p>
 
