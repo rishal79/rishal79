@@ -45,3 +45,5 @@ I'm a passionate developer with experience in various programming languages and 
 
 ## Open to Contributions
 I'm always open to collaborating on interesting projects and welcome contributions to my repositories. Feel free to reach out if you have ideas or want to work together!
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishal79&theme=react-dark)
