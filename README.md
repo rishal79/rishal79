@@ -4,7 +4,7 @@
 I'm a passionate developer with experience in various programming languages and frameworks. I enjoy building web applications and working on exciting projects.
 
 ## Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn logo"/>
   </a>
