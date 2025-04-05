@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm RISHAL P</h1>
 
+## About Me
+I'm a passionate developer with experience in various programming languages and frameworks. I enjoy building web applications and working on exciting projects.
 
-<h3>connect me</h3>
-<div align="center">
- <a href="">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn logo"/>
-</a>
-  <a href="">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-</a>
-  <img src="https://skillicons.dev/icons?i=whats app" alt="whatsapp logo"  />
-<a href="">
-  <img src="https://skillicons.dev/icons?i=discord"  alt="Discord"/>
-</a>
-  
-</div>
+## Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn logo"/>
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://discord.gg/your-discord" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
+  </a>
+</p>
 
-
-<h3>languages & frameworks</h3>
+## Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,c" />
@@ -30,25 +29,19 @@
   </a>
 </p>
 
-
+## Databases
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
   </a>
 </p>
-<h4>Tools</h4>
+
+## Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,figma,git" />
   </a>
 </p>
 
-
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rishal79" alt="rishal79" />
-  </a> 
-</p>
-
-
+## Open to Contributions
+I'm always open to collaborating on interesting projects and welcome contributions to my repositories. Feel free to reach out if you have ideas or want to work together!
